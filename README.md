@@ -1,4 +1,3 @@
-# programadores-para-la-paz
 # Programadores para la Paz 🕊️
 
 Repositorio correspondiente a la **Actividad Semana 1**, enfocado en el desarrollo de competencias en ciudadanía digital, pensamiento algorítmico y uso de herramientas como Git y GitHub.
