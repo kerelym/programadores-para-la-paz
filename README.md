@@ -26,7 +26,6 @@ El contenido está organizado por carpetas semanales para facilitar la navegaci�
 *   **Terminal de comandos** (Navegación y gestión de archivos).
 *   **Git** (Control de versiones local).
 *   **GitHub** (Alojamiento y portafolio remoto).
-*   **Flutter / Dart** (Desarrollo de aplicaciones en curso).
 
 ---
 
