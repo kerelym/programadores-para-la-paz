@@ -8,9 +8,9 @@ El objetivo es documentar el progreso realizado semana a semana mediante prácti
 
 ## 📂 Estructura del Repositorio
 
-El contenido está organizado en carpetas semanales para mantener una estructura clara y fácil de navegar.
+El contenido está organizado en carpetas semanales para mantener una estructura clara, ordenada y fácil de navegar.
 
-```bash
+```text
 programadores-para-la-paz/
 │
 ├── semana1/
@@ -18,27 +18,35 @@ programadores-para-la-paz/
 ├── semana3/
 ├── semana4/
 ├── semana5/
+├── semana6/
+├── semana7/
+├── semana8/
 └── README.md
 ```
 
-### Contenido por semanas
+## 📚 Contenido por semanas
 
-* **semana1:** Ciudadanía digital y fundamentos de algoritmos.
-* **semana2:** Dominio de la terminal, gestión de archivos y Git.
-* **semana3:** Lógica de programación y estructuras básicas.
-* **semana4:** Introducción a JavaScript y desarrollo básico.
-* **semana5:** Servidores con Node.js, Express y creación de APIs REST.
+* **Semana 1:** Ciudadanía digital y fundamentos de algoritmos.
+* **Semana 2:** Dominio de la terminal, gestión de archivos y Git.
+* **Semana 3:** Lógica de programación y estructuras básicas.
+* **Semana 4:** Introducción a JavaScript y desarrollo básico.
+* **Semana 5:** Servidores con Node.js, Express y creación de APIs REST.
+* **Semana 6:** Recepción de datos mediante peticiones POST, JSON y uso de `req.body` en Express.
+* **Semana 7:** Manejo de APIs con rutas GET y POST, almacenamiento temporal en arrays y consulta de información.
+* **Semana 8:** Fundamentos de Linux, terminal, sistemas operativos de código abierto y buenas prácticas de seguridad digital.
 
 ---
 
 ## 🎯 Objetivos Principales
 
 * Fortalecer el pensamiento lógico y computacional.
-* Aplicar buenas prácticas de programación.
+* Aplicar buenas prácticas de programación y organización de proyectos.
 * Comprender el funcionamiento de APIs y servidores web.
+* Desarrollar aplicaciones backend utilizando Node.js y Express.
 * Utilizar Git y GitHub como herramientas de control de versiones.
-* Organizar proyectos de forma profesional y documentada.
-* Promover el uso responsable y ético de la tecnología.
+* Conocer fundamentos de Linux y administración básica de sistemas.
+* Implementar principios básicos de seguridad digital.
+* Promover el uso responsable, ético y seguro de la tecnología.
 
 ---
 
@@ -49,8 +57,11 @@ programadores-para-la-paz/
 * Express.js
 * Git
 * GitHub
+* Linux
 * Terminal de comandos
 * Visual Studio Code
+* JSON
+* APIs REST
 
 ---
 
@@ -73,7 +84,7 @@ cd programadores-para-la-paz
 Ejemplo:
 
 ```bash
-cd semana5
+cd semana8
 ```
 
 ---
@@ -81,14 +92,21 @@ cd semana5
 ## 📌 Temas trabajados
 
 * Ciudadanía digital
+* Participación comunitaria
+* Gobernanza digital
+* Transparencia y veeduría ciudadana
 * Algoritmos y pseudocódigo
-* Control de versiones
-* Manejo de terminal
+* Control de versiones con Git y GitHub
+* Manejo de terminal y sistema de archivos
 * JavaScript básico
-* Desarrollo backend
+* Desarrollo backend con Node.js
+* Express.js
 * APIs REST
-* Rutas HTTP con Express
-* Manejo de solicitudes GET y POST
+* Métodos HTTP (GET y POST)
+* JSON y manejo de datos
+* Linux y línea de comandos
+* Seguridad digital
+* Protección de datos y privacidad
 
 ---
 
